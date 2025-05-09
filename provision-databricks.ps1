@@ -82,7 +82,9 @@ while ($stop -ne 1){
     write-host "Trying $Region..."
     # Check that the required SKU is available
     $skuOK = 1
-    $skus = Get-AzComputeResourceSku $Region | Where-Object {$_.ResourceType -eq "VirtualMachines" -and $_.Name -eq "Standard_D4ds_v5"}
+    $skus = Get-AzComputeResourceSku $Region | Where-Object {
+    $_.ResourceType -eq "VirtualMachines" -and $_.Name -eq "Standard_D2_v2"
+}
     if ($skus.length -gt 0)
     {
         $r = $skus.Restrictions
