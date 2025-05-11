@@ -1,0 +1,451 @@
+ProductID,ProductName,Category,ListPrice
+900,GalaxyEdge 3.7,Smartphones,970.62
+901,NoteLite 8 5.3,Tablets,1789.21
+902,PulseSync V 4.1,Wearables,415.05
+903,EdgeTab Air 1.0,Tablets,1543.73
+904,iStream Mini 2.9,Smartphones,1253.36
+905,CoreSlim X 3.3,Laptops,2033.28
+906,ThinkPower 14 1.1,Laptops,2057.55
+907,ZoomTab X 3.9,Tablets,1890.47
+908,Zenith Z5 1.2,Smartphones,1615.05
+909,NoteLite 8 4.8,Tablets,1073.4
+910,TimeLoop Mini 1.6,Wearables,1305.64
+911,TabCore 10 4.6,Tablets,357.78
+912,AirNova 13 5.4,Laptops,917.92
+913,EdgeTab Air 2.7,Tablets,2011.4
+914,CoreSlim X 3.4,Laptops,1620.31
+915,NoteLite 8 3.2,Tablets,1565.72
+916,NovaPhone X 2.0,Smartphones,716.6
+917,HealthMate Pro 5.2,Wearables,1828.33
+918,NovaPhone X 5.8,Smartphones,1137.82
+919,HealthMate Pro 4.4,Wearables,1245.12
+920,SlateMaster 12 5.9,Tablets,1731.23
+921,Zenith Z5 4.6,Smartphones,1612.91
+922,SlateMaster 12 3.3,Tablets,1499.74
+923,PixelLite 5.3,Smartphones,235.7
+924,SmartChrono S 3.6,Wearables,1319.27
+925,AirNova 13 1.9,Laptops,1343.41
+926,NovaPhone X 4.8,Smartphones,937.6
+927,NoteLite 8 3.1,Tablets,2057.77
+928,AirNova 13 3.4,Laptops,1414.78
+929,ThinkPower 14 3.8,Laptops,1537.08
+930,AirNova 13 3.7,Laptops,2075.38
+931,FitPulse Band 1.9,Wearables,1139.41
+932,FlexBook 360 3.7,Laptops,1953.91
+933,CoreSlim X 3.9,Laptops,817.04
+934,TimeLoop Mini 2.0,Wearables,1019.54
+935,AirNova 13 2.8,Laptops,1579.67
+936,UltraTab Pro 4.5,Laptops,1983.3
+937,SlateMaster 12 5.0,Tablets,668.42
+938,AirNova 13 3.3,Laptops,1814.52
+939,ThinkPower 14 5.3,Laptops,724.98
+940,HealthMate Pro 4.7,Wearables,2002.43
+941,GalaxyEdge 4.0,Smartphones,547.2
+942,PulseSync V 1.1,Wearables,1656.33
+943,PixelLite 2.1,Smartphones,1636.41
+944,FitPulse Band 4.7,Wearables,1162.37
+945,Zenith Z5 3.3,Smartphones,512.38
+946,UltraTab Pro 4.9,Laptops,1257.55
+947,FlexBook 360 5.8,Laptops,550.84
+948,Zenith Z5 2.3,Smartphones,1463.78
+949,PixelLite 3.1,Smartphones,765.3
+950,EdgeTab Air 2.8,Tablets,878.38
+951,SlateMaster 12 4.7,Tablets,1605.52
+952,PulseSync V 2.0,Wearables,1991.23
+953,AirNova 13 3.1,Laptops,1341.39
+954,CoreSlim X 4.3,Laptops,1361.89
+955,iStream Mini 4.3,Smartphones,1175.99
+956,UltraTab Pro 4.1,Laptops,124.75
+957,TabCore 10 1.1,Tablets,1724.68
+958,PulseSync V 4.2,Wearables,1356.15
+959,NovaPhone X 4.3,Smartphones,469.88
+960,FitPulse Band 4.5,Wearables,1812.17
+961,TabCore 10 4.7,Tablets,1888.58
+962,GalaxyEdge 1.4,Smartphones,1178.18
+963,EdgeTab Air 2.8,Tablets,543.55
+964,ZoomTab X 3.2,Tablets,1614.7
+965,FitPulse Band 4.5,Wearables,200.49
+966,iStream Mini 2.3,Smartphones,1591.7
+967,iStream Mini 1.7,Smartphones,1079.57
+968,Zenith Z5 5.5,Smartphones,348.36
+969,SmartChrono S 1.1,Wearables,539.26
+970,UltraTab Pro 3.1,Laptops,1857.9
+971,TabCore 10 2.7,Tablets,593.1
+972,NoteLite 8 4.0,Tablets,334.76
+973,GalaxyEdge 1.6,Smartphones,335.84
+974,FlexBook 360 3.1,Laptops,1485.75
+975,TabCore 10 2.3,Tablets,1238.75
+976,TabCore 10 3.8,Tablets,1692.58
+977,SmartChrono S 4.4,Wearables,1573.39
+978,iStream Mini 5.0,Smartphones,153.4
+979,FitPulse Band 5.8,Wearables,544.6
+980,HealthMate Pro 1.5,Wearables,1225.58
+981,SlateMaster 12 3.7,Tablets,1319.1
+982,TimeLoop Mini 4.1,Wearables,1525.46
+983,CoreSlim X 4.9,Laptops,877.73
+984,iStream Mini 2.9,Smartphones,2090.9
+985,FitPulse Band 1.6,Wearables,1993.81
+986,GalaxyEdge 2.3,Smartphones,1641.32
+987,AirNova 13 4.6,Laptops,965.85
+988,ThinkPower 14 2.9,Laptops,1393.26
+989,NoteLite 8 5.2,Tablets,919.11
+990,SmartChrono S 5.8,Wearables,1419.9
+991,Zenith Z5 4.8,Smartphones,1343.54
+992,iStream Mini 1.3,Smartphones,515.28
+993,iStream Mini 2.5,Smartphones,791.06
+994,NovaPhone X 1.0,Smartphones,188.4
+995,iStream Mini 4.3,Smartphones,793.25
+996,FlexBook 360 5.7,Laptops,774.87
+997,GalaxyEdge 2.5,Smartphones,727.96
+998,iStream Mini 3.8,Smartphones,1403.64
+999,NoteLite 8 3.5,Tablets,236.35
+1000,PixelLite 5.8,Smartphones,396.12
+1001,TabCore 10 5.8,Tablets,877.01
+1002,EdgeTab Air 2.8,Tablets,893.01
+1003,PulseSync V 4.9,Wearables,161.34
+1004,ZoomTab X 5.0,Tablets,194.01
+1005,AirNova 13 5.2,Laptops,489.01
+1006,EdgeTab Air 4.0,Tablets,2052.3
+1007,FlexBook 360 3.9,Laptops,1380.77
+1008,UltraTab Pro 2.1,Laptops,593.72
+1009,ZoomTab X 2.8,Tablets,391.49
+1010,TimeLoop Mini 2.0,Wearables,2055.82
+1011,ThinkPower 14 1.8,Laptops,1854.2
+1012,SlateMaster 12 2.1,Tablets,595.64
+1013,iStream Mini 1.8,Smartphones,972.19
+1014,SlateMaster 12 4.7,Tablets,1417.34
+1015,PixelLite 1.3,Smartphones,862.2
+1016,HealthMate Pro 1.7,Wearables,323.87
+1017,FlexBook 360 3.0,Laptops,1759.82
+1018,PixelLite 3.9,Smartphones,1760.3
+1019,iStream Mini 4.1,Smartphones,914.88
+1020,PixelLite 5.5,Smartphones,907.37
+1021,FlexBook 360 1.0,Laptops,856.4
+1022,GalaxyEdge 3.4,Smartphones,1164.09
+1023,AirNova 13 1.3,Laptops,155.3
+1024,ZoomTab X 4.8,Tablets,788.29
+1025,NoteLite 8 5.4,Tablets,1004.94
+1026,Zenith Z5 3.3,Smartphones,1169.13
+1027,GalaxyEdge 3.2,Smartphones,1539.95
+1028,EdgeTab Air 2.8,Tablets,1556.84
+1029,FlexBook 360 1.0,Laptops,662.84
+1030,EdgeTab Air 5.2,Tablets,978.27
+1031,SmartChrono S 4.7,Wearables,784.77
+1032,CoreSlim X 2.1,Laptops,1384.77
+1033,PixelLite 4.1,Smartphones,1120.42
+1034,TimeLoop Mini 3.4,Wearables,1294.25
+1035,SmartChrono S 4.5,Wearables,1879.53
+1036,PixelLite 3.6,Smartphones,2096.03
+1037,Zenith Z5 4.9,Smartphones,2016.49
+1038,CoreSlim X 3.1,Laptops,1455.13
+1039,NovaPhone X 1.5,Smartphones,884.33
+1040,iStream Mini 2.3,Smartphones,2046.64
+1041,EdgeTab Air 4.1,Tablets,1143.86
+1042,PulseSync V 5.1,Wearables,1002.99
+1043,ZoomTab X 3.1,Tablets,256.72
+1044,NoteLite 8 5.7,Tablets,1928.18
+1045,SlateMaster 12 3.2,Tablets,1014.58
+1046,AirNova 13 3.2,Laptops,1605.6
+1047,SlateMaster 12 3.4,Tablets,1297.05
+1048,NovaPhone X 5.2,Smartphones,1190.09
+1049,FlexBook 360 3.7,Laptops,697.17
+1050,NoteLite 8 5.9,Tablets,1332.91
+1051,SmartChrono S 1.3,Wearables,320.18
+1052,PixelLite 5.0,Smartphones,1554.31
+1053,PixelLite 2.7,Smartphones,1751.65
+1054,SlateMaster 12 5.9,Tablets,1358.89
+1055,Zenith Z5 3.3,Smartphones,1783.21
+1056,FitPulse Band 2.5,Wearables,877.47
+1057,NovaPhone X 4.8,Smartphones,1736.57
+1058,PulseSync V 1.9,Wearables,988.45
+1059,EdgeTab Air 3.9,Tablets,1285.77
+1060,SmartChrono S 5.0,Wearables,320.44
+1061,FitPulse Band 3.8,Wearables,1696.33
+1062,Zenith Z5 5.8,Smartphones,1845.06
+1063,PixelLite 4.9,Smartphones,1919.26
+1064,HealthMate Pro 4.3,Wearables,904.02
+1065,CoreSlim X 2.8,Laptops,559.91
+1066,NoteLite 8 4.2,Tablets,1856.83
+1067,TimeLoop Mini 4.7,Wearables,522.37
+1068,UltraTab Pro 5.6,Laptops,1088.05
+1069,AirNova 13 2.7,Laptops,1914.94
+1070,FitPulse Band 3.7,Wearables,566.26
+1071,UltraTab Pro 5.5,Laptops,1216.14
+1072,NoteLite 8 4.9,Tablets,1225.58
+1073,AirNova 13 3.6,Laptops,741.26
+1074,AirNova 13 4.4,Laptops,627.8
+1075,UltraTab Pro 4.5,Laptops,705.91
+1076,Zenith Z5 3.0,Smartphones,201.24
+1077,TabCore 10 4.2,Tablets,703.27
+1078,ZoomTab X 3.1,Tablets,2079.73
+1079,EdgeTab Air 1.2,Tablets,1274.26
+1080,iStream Mini 4.0,Smartphones,1022.05
+1081,FlexBook 360 1.1,Laptops,1883.19
+1082,SlateMaster 12 1.6,Tablets,2035.09
+1083,FitPulse Band 3.0,Wearables,724.22
+1084,FitPulse Band 5.4,Wearables,180.67
+1085,HealthMate Pro 3.7,Wearables,1803.31
+1086,GalaxyEdge 3.2,Smartphones,333.78
+1087,ThinkPower 14 2.7,Laptops,1083.74
+1088,CoreSlim X 2.8,Laptops,623.16
+1089,PixelLite 3.4,Smartphones,1106.92
+1090,FlexBook 360 5.1,Laptops,1507.26
+1091,PulseSync V 4.5,Wearables,295.67
+1092,FitPulse Band 3.1,Wearables,370.03
+1093,HealthMate Pro 2.7,Wearables,1125.57
+1094,FlexBook 360 2.5,Laptops,1872.9
+1095,FitPulse Band 2.4,Wearables,1745.91
+1096,HealthMate Pro 2.7,Wearables,1210.01
+1097,GalaxyEdge 5.3,Smartphones,1827.91
+1098,TabCore 10 5.2,Tablets,1748.32
+1099,TabCore 10 1.7,Tablets,2076.18
+1100,PulseSync V 4.1,Wearables,1654.36
+1101,EdgeTab Air 1.0,Tablets,2000.89
+1102,NovaPhone X 3.5,Smartphones,886.42
+1103,NovaPhone X 2.6,Smartphones,1381.23
+1104,UltraTab Pro 4.4,Laptops,977.26
+1105,UltraTab Pro 3.1,Laptops,598.98
+1106,NovaPhone X 4.4,Smartphones,1532.14
+1107,TimeLoop Mini 4.0,Wearables,780.31
+1108,EdgeTab Air 2.6,Tablets,2086.54
+1109,PulseSync V 3.7,Wearables,963.41
+1110,NoteLite 8 5.6,Tablets,1135.69
+1111,NoteLite 8 4.3,Tablets,331.2
+1112,SmartChrono S 2.9,Wearables,200.73
+1113,NovaPhone X 5.7,Smartphones,751.19
+1114,iStream Mini 1.3,Smartphones,2092.25
+1115,iStream Mini 1.2,Smartphones,1651.24
+1116,SlateMaster 12 1.3,Tablets,371.0
+1117,PixelLite 2.8,Smartphones,1357.6
+1118,UltraTab Pro 2.0,Laptops,563.98
+1119,Zenith Z5 4.9,Smartphones,280.2
+1120,iStream Mini 3.2,Smartphones,402.92
+1121,AirNova 13 5.1,Laptops,1388.93
+1122,PulseSync V 5.4,Wearables,1883.59
+1123,FlexBook 360 4.6,Laptops,656.16
+1124,ThinkPower 14 2.9,Laptops,1400.8
+1125,iStream Mini 1.2,Smartphones,133.95
+1126,HealthMate Pro 4.5,Wearables,598.94
+1127,SlateMaster 12 5.9,Tablets,359.22
+1128,NovaPhone X 2.5,Smartphones,1657.17
+1129,TimeLoop Mini 3.7,Wearables,148.16
+1130,CoreSlim X 5.2,Laptops,463.04
+1131,FlexBook 360 3.8,Laptops,1835.36
+1132,TabCore 10 3.6,Tablets,1499.64
+1133,PixelLite 5.3,Smartphones,1017.4
+1134,TabCore 10 3.4,Tablets,340.47
+1135,TabCore 10 5.7,Tablets,1911.01
+1136,TimeLoop Mini 1.9,Wearables,1692.06
+1137,SlateMaster 12 2.7,Tablets,962.05
+1138,SlateMaster 12 4.6,Tablets,1082.31
+1139,AirNova 13 3.0,Laptops,561.56
+1140,NoteLite 8 5.0,Tablets,212.73
+1141,PixelLite 3.6,Smartphones,1623.55
+1142,TimeLoop Mini 4.1,Wearables,396.35
+1143,GalaxyEdge 5.2,Smartphones,2025.17
+1144,SlateMaster 12 5.1,Tablets,437.36
+1145,ZoomTab X 1.2,Tablets,563.63
+1146,AirNova 13 4.4,Laptops,1762.35
+1147,iStream Mini 1.5,Smartphones,262.08
+1148,iStream Mini 2.6,Smartphones,1080.74
+1149,SlateMaster 12 4.4,Tablets,137.2
+1150,TabCore 10 1.5,Tablets,235.57
+1151,Zenith Z5 1.4,Smartphones,907.81
+1152,NoteLite 8 5.0,Tablets,530.3
+1153,FlexBook 360 4.9,Laptops,295.77
+1154,SmartChrono S 1.3,Wearables,700.08
+1155,FlexBook 360 4.0,Laptops,1797.23
+1156,EdgeTab Air 3.9,Tablets,274.87
+1157,Zenith Z5 2.0,Smartphones,1897.87
+1158,TimeLoop Mini 5.8,Wearables,611.65
+1159,iStream Mini 5.7,Smartphones,2083.26
+1160,ThinkPower 14 4.1,Laptops,566.84
+1161,TimeLoop Mini 2.2,Wearables,848.22
+1162,NovaPhone X 4.1,Smartphones,1196.61
+1163,iStream Mini 1.1,Smartphones,536.64
+1164,TimeLoop Mini 2.2,Wearables,861.25
+1165,HealthMate Pro 2.2,Wearables,608.06
+1166,EdgeTab Air 2.4,Tablets,1187.42
+1167,UltraTab Pro 2.2,Laptops,454.14
+1168,CoreSlim X 2.6,Laptops,1479.96
+1169,SmartChrono S 5.4,Wearables,1992.21
+1170,GalaxyEdge 3.8,Smartphones,741.02
+1171,NoteLite 8 5.6,Tablets,1578.59
+1172,iStream Mini 5.1,Smartphones,309.44
+1173,CoreSlim X 2.2,Laptops,482.85
+1174,FitPulse Band 4.0,Wearables,294.56
+1175,SlateMaster 12 5.6,Tablets,716.54
+1176,ThinkPower 14 2.9,Laptops,810.38
+1177,SmartChrono S 1.9,Wearables,1078.79
+1178,NovaPhone X 3.7,Smartphones,1693.4
+1179,CoreSlim X 1.6,Laptops,1304.34
+1180,GalaxyEdge 2.3,Smartphones,1027.7
+1181,FlexBook 360 5.2,Laptops,187.79
+1182,UltraTab Pro 4.6,Laptops,1892.88
+1183,FitPulse Band 2.1,Wearables,485.98
+1184,ThinkPower 14 4.0,Laptops,2095.32
+1185,UltraTab Pro 5.4,Laptops,609.38
+1186,HealthMate Pro 2.1,Wearables,852.81
+1187,iStream Mini 4.5,Smartphones,445.38
+1188,FitPulse Band 2.2,Wearables,1636.78
+1189,NoteLite 8 2.9,Tablets,286.8
+1190,PixelLite 1.0,Smartphones,451.45
+1191,SlateMaster 12 5.9,Tablets,1356.91
+1192,FlexBook 360 2.9,Laptops,668.56
+1193,SlateMaster 12 4.6,Tablets,280.66
+1194,EdgeTab Air 1.6,Tablets,558.21
+1195,TimeLoop Mini 5.8,Wearables,998.67
+1196,PulseSync V 5.3,Wearables,242.92
+1197,TimeLoop Mini 4.5,Wearables,792.21
+1198,NoteLite 8 4.0,Tablets,865.77
+1199,NovaPhone X 4.3,Smartphones,1090.62
+1200,UltraTab Pro 1.6,Laptops,1422.82
+1201,TabCore 10 4.2,Tablets,1660.01
+1202,TabCore 10 1.6,Tablets,387.21
+1203,EdgeTab Air 5.5,Tablets,1628.35
+1204,iStream Mini 5.3,Smartphones,1965.74
+1205,Zenith Z5 1.4,Smartphones,1451.13
+1206,ThinkPower 14 5.5,Laptops,1683.62
+1207,Zenith Z5 5.2,Smartphones,1948.11
+1208,FitPulse Band 3.5,Wearables,573.2
+1209,GalaxyEdge 1.7,Smartphones,1891.03
+1210,Zenith Z5 2.0,Smartphones,262.74
+1211,PixelLite 4.1,Smartphones,352.26
+1212,FlexBook 360 4.4,Laptops,943.88
+1213,TimeLoop Mini 2.6,Wearables,441.31
+1214,ZoomTab X 4.5,Tablets,1210.58
+1215,Zenith Z5 5.0,Smartphones,544.63
+1216,ZoomTab X 3.6,Tablets,1781.69
+1217,EdgeTab Air 3.9,Tablets,1065.24
+1218,iStream Mini 2.1,Smartphones,2073.73
+1219,ThinkPower 14 3.1,Laptops,2044.82
+1220,NovaPhone X 3.8,Smartphones,1055.62
+1221,FlexBook 360 4.5,Laptops,1025.79
+1222,UltraTab Pro 1.3,Laptops,379.32
+1223,SmartChrono S 3.5,Wearables,1989.67
+1224,GalaxyEdge 3.9,Smartphones,1649.91
+1225,AirNova 13 4.1,Laptops,449.44
+1226,SlateMaster 12 1.7,Tablets,754.58
+1227,TabCore 10 5.3,Tablets,1747.69
+1228,ZoomTab X 3.8,Tablets,2002.4
+1229,FlexBook 360 1.0,Laptops,565.69
+1230,FlexBook 360 1.5,Laptops,895.87
+1231,iStream Mini 2.1,Smartphones,1250.73
+1232,ThinkPower 14 1.4,Laptops,1933.21
+1233,SmartChrono S 5.8,Wearables,1157.41
+1234,SmartChrono S 1.2,Wearables,1185.34
+1235,HealthMate Pro 2.9,Wearables,482.5
+1236,FitPulse Band 5.7,Wearables,590.12
+1237,FlexBook 360 4.1,Laptops,1132.64
+1238,iStream Mini 2.3,Smartphones,1735.81
+1239,PixelLite 4.8,Smartphones,412.76
+1240,FlexBook 360 4.0,Laptops,865.02
+1241,NovaPhone X 5.2,Smartphones,1081.04
+1242,TabCore 10 1.3,Tablets,944.15
+1243,ZoomTab X 4.5,Tablets,1977.21
+1244,Zenith Z5 3.4,Smartphones,627.04
+1245,ThinkPower 14 1.6,Laptops,1328.8
+1246,NovaPhone X 2.3,Smartphones,1999.92
+1247,SlateMaster 12 1.4,Tablets,1432.75
+1248,SmartChrono S 5.9,Wearables,778.37
+1249,SlateMaster 12 4.4,Tablets,2052.36
+1250,Zenith Z5 4.6,Smartphones,853.97
+1251,ThinkPower 14 2.4,Laptops,136.84
+1252,ThinkPower 14 1.3,Laptops,728.28
+1253,PixelLite 3.5,Smartphones,1181.72
+1254,PulseSync V 3.1,Wearables,556.99
+1255,SmartChrono S 3.0,Wearables,305.05
+1256,PixelLite 2.8,Smartphones,2093.51
+1257,NoteLite 8 1.9,Tablets,710.05
+1258,CoreSlim X 1.0,Laptops,1655.45
+1259,FitPulse Band 3.9,Wearables,1019.72
+1260,NovaPhone X 3.8,Smartphones,256.12
+1261,PixelLite 5.8,Smartphones,491.11
+1262,UltraTab Pro 4.6,Laptops,439.42
+1263,NoteLite 8 3.1,Tablets,1299.9
+1264,SlateMaster 12 1.8,Tablets,2026.09
+1265,ThinkPower 14 2.5,Laptops,1337.62
+1266,CoreSlim X 2.0,Laptops,1916.37
+1267,PixelLite 3.0,Smartphones,1471.22
+1268,PulseSync V 4.1,Wearables,245.21
+1269,FitPulse Band 2.7,Wearables,751.78
+1270,PulseSync V 4.3,Wearables,1379.7
+1271,ThinkPower 14 3.4,Laptops,1282.68
+1272,EdgeTab Air 3.4,Tablets,319.68
+1273,EdgeTab Air 5.6,Tablets,1641.35
+1274,EdgeTab Air 5.4,Tablets,2008.74
+1275,UltraTab Pro 1.5,Laptops,867.59
+1276,PulseSync V 5.3,Wearables,196.81
+1277,AirNova 13 4.5,Laptops,1592.3
+1278,GalaxyEdge 3.6,Smartphones,2033.4
+1279,AirNova 13 2.6,Laptops,436.34
+1280,SmartChrono S 2.1,Wearables,2011.78
+1281,NovaPhone X 2.9,Smartphones,1376.79
+1282,Zenith Z5 5.4,Smartphones,971.74
+1283,TabCore 10 1.5,Tablets,2021.8
+1284,EdgeTab Air 3.3,Tablets,1619.53
+1285,HealthMate Pro 1.1,Wearables,1010.24
+1286,NovaPhone X 1.1,Smartphones,1862.54
+1287,HealthMate Pro 5.5,Wearables,2046.47
+1288,NoteLite 8 2.6,Tablets,700.24
+1289,PixelLite 5.4,Smartphones,485.35
+1290,PulseSync V 3.1,Wearables,294.84
+1291,HealthMate Pro 4.8,Wearables,1418.24
+1292,PulseSync V 1.8,Wearables,822.06
+1293,FlexBook 360 3.9,Laptops,1485.2
+1294,TimeLoop Mini 4.7,Wearables,902.91
+1295,HealthMate Pro 4.7,Wearables,730.5
+1296,PulseSync V 5.4,Wearables,1039.76
+1297,SmartChrono S 3.5,Wearables,1204.0
+1298,TimeLoop Mini 2.0,Wearables,987.22
+1299,FitPulse Band 2.1,Wearables,1376.32
+1300,PulseSync V 3.5,Wearables,202.87
+1301,GalaxyEdge 4.2,Smartphones,396.68
+1302,Zenith Z5 2.7,Smartphones,774.5
+1303,iStream Mini 4.3,Smartphones,1008.81
+1304,EdgeTab Air 1.6,Tablets,1198.77
+1305,NoteLite 8 1.0,Tablets,1977.31
+1306,Zenith Z5 4.0,Smartphones,309.3
+1307,UltraTab Pro 4.7,Laptops,1472.34
+1308,TabCore 10 2.9,Tablets,200.84
+1309,TimeLoop Mini 5.9,Wearables,1845.88
+1310,TimeLoop Mini 2.5,Wearables,394.07
+1311,NoteLite 8 1.4,Tablets,1120.14
+1312,PixelLite 1.0,Smartphones,552.8
+1313,FitPulse Band 2.8,Wearables,1752.6
+1314,Zenith Z5 3.4,Smartphones,311.29
+1315,PulseSync V 2.8,Wearables,1022.25
+1316,NovaPhone X 1.1,Smartphones,1404.01
+1317,Zenith Z5 4.5,Smartphones,549.68
+1318,NoteLite 8 1.7,Tablets,1474.16
+1319,EdgeTab Air 4.4,Tablets,1845.13
+1320,ZoomTab X 4.0,Tablets,645.89
+1321,FitPulse Band 5.4,Wearables,1903.8
+1322,SmartChrono S 4.1,Wearables,978.85
+1323,EdgeTab Air 1.1,Tablets,1879.86
+1324,EdgeTab Air 5.0,Tablets,700.27
+1325,TimeLoop Mini 4.8,Wearables,1861.36
+1326,HealthMate Pro 4.8,Wearables,933.88
+1327,TimeLoop Mini 3.0,Wearables,2027.53
+1328,PixelLite 2.4,Smartphones,1756.58
+1329,NoteLite 8 3.5,Tablets,1975.54
+1330,HealthMate Pro 2.1,Wearables,938.64
+1331,NovaPhone X 3.5,Smartphones,873.25
+1332,UltraTab Pro 4.4,Laptops,180.66
+1333,iStream Mini 2.6,Smartphones,1524.16
+1334,TabCore 10 5.2,Tablets,616.48
+1335,SlateMaster 12 4.7,Tablets,1845.53
+1336,EdgeTab Air 4.9,Tablets,1743.08
+1337,AirNova 13 3.1,Laptops,633.46
+1338,GalaxyEdge 2.0,Smartphones,1618.44
+1339,AirNova 13 3.7,Laptops,730.99
+1340,NovaPhone X 5.0,Smartphones,840.77
+1341,SmartChrono S 3.8,Wearables,256.81
+1342,FitPulse Band 1.5,Wearables,1439.43
+1343,SlateMaster 12 3.6,Tablets,1602.3
+1344,GalaxyEdge 5.2,Smartphones,1891.25
+1345,PixelLite 2.0,Smartphones,470.05
+1346,NovaPhone X 1.0,Smartphones,1911.4
+1347,SmartChrono S 2.0,Wearables,1531.66
+1348,AirNova 13 5.0,Laptops,145.14
+1349,SmartChrono S 2.3,Wearables,1452.6
